@@ -1,0 +1,6 @@
+projectKey=Calculadora_Web:Calculadora_Web
+serverUrl=http://169.62.229.21:9000
+serverVersion=6.7.5.38563
+dashboardUrl=http://169.62.229.21:9000/dashboard/index/Calculadora_Web:Calculadora_Web
+ceTaskId=AWeZsu5-WwU-ogAHnDFk
+ceTaskUrl=http://169.62.229.21:9000/api/ce/task?id=AWeZsu5-WwU-ogAHnDFk
